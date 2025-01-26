@@ -1,0 +1,7 @@
+{
+  "URL": "https://reqres.in/api/users",
+  "M\u00e9todo": "GET",
+  "Par\u00e1metros": {
+    "page": 2
+  }
+}

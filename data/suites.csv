@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","191","src.tests","test_usuarios","TestUsuarios","","","TC4: (POST) CREAR UN NUEVO USUARIO",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","222","src.tests","test_usuarios","TestUsuarios","","","TC3: (GET) VALIDAR NO ENCONTRAR USUARIO CON ID 23",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","183","src.tests","test_usuarios","TestUsuarios","","","TC5: (PUT) VALIDAR ACTUALIZAR USUARIO CON ID 2",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","41","src.tests","test_usuarios","TestUsuarios","","","TC2: (GET) VALIDAR LA OBTENCIÓN DE USUARIO CON ID 2",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","184","src.tests","test_usuarios","TestUsuarios","","","TC6: (PATCH) VALIDAR ACTUALIZAR USUARIO CON ID 2",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:15 UTC 2025","181","src.tests","test_usuarios","TestUsuarios","","","TC7: (DELETE) VALIDAR LA ELIMINACIO DEL USUARIO CON ID 2",""
+"passed","Sun Jan 26 15:20:14 UTC 2025","Sun Jan 26 15:20:14 UTC 2025","51","src.tests","test_usuarios","TestUsuarios","","","TC1: (GET) VALIDAR LA OBTENCIÓN DE LA LISTA DE USUARIOS DE LA PÁGINA 2",""

@@ -1,0 +1,20 @@
+{
+  "C\u00f3digo de Estado": 204,
+  "Tiempo de Respuesta (s)": 0.18,
+  "Cabeceras": {
+    "Date": "Sun, 26 Jan 2025 15:20:15 GMT",
+    "Content-Length": "0",
+    "Connection": "keep-alive",
+    "Report-To": "{\"group\":\"heroku-nel\",\"max_age\":3600,\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?ts=1737904815&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=bosA1UaS8zmLRF3dnSGTajul0mMT8KHugzEmRBTuuCs%3D\"}]}",
+    "Reporting-Endpoints": "heroku-nel=https://nel.heroku.com/reports?ts=1737904815&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=bosA1UaS8zmLRF3dnSGTajul0mMT8KHugzEmRBTuuCs%3D",
+    "Nel": "{\"report_to\":\"heroku-nel\",\"max_age\":3600,\"success_fraction\":0.005,\"failure_fraction\":0.05,\"response_headers\":[\"Via\"]}",
+    "X-Powered-By": "Express",
+    "Access-Control-Allow-Origin": "*",
+    "Etag": "W/\"2-vyGp6PvFo4RvsFtPoIWeCReyIC8\"",
+    "Via": "1.1 vegur",
+    "cf-cache-status": "DYNAMIC",
+    "Server": "cloudflare",
+    "CF-RAY": "90817c655b535997-IAD",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=5219&min_rtt=5212&rtt_var=1959&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2835&recv_bytes=792&delivery_rate=547966&cwnd=251&unsent_bytes=0&cid=4d917a8d79db718e&ts=168&x=0\""
+  }
+}
